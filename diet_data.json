@@ -1,0 +1,35 @@
+{
+  "weight_history": [
+    {
+      "date": "2025-06-13",
+      "weight": 78.0
+    },
+    {
+      "date": "2025-06-13",
+      "weight": 77.0
+    },
+    {
+      "date": "2025-06-13",
+      "weight": 76.0
+    },
+    {
+      "date": "2025-06-13",
+      "weight": 3.0
+    }
+  ],
+  "meals": {
+    "2025-06-13": [
+      {
+        "name": "밥",
+        "kcal": 359
+      }
+    ]
+  },
+  "goal": {
+    "height": 1.78,
+    "std_weight": 69.7048,
+    "weekly_loss": 3.0,
+    "goal_kcal": 2070
+  },
+  "exercise": {}
+}
